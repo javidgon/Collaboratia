@@ -1,0 +1,143 @@
+
+/* CSS de los mensajes de alerta de la aplicación */
+/* VALIDADO con CSS 2.1 */
+root {
+    display: block;
+}
+
+.infoNegative{  /* Mensajes negativos con fotografía. */
+
+    position:relative;
+    left:2em;
+    top:5em;
+    max-width: 30em;
+    font-size: 1.5em;
+    background-color: #FFE4E3;
+    padding:1em;
+    background-position: right;
+    color:#FF6B66;
+    font-family: Myriad;
+
+}
+
+.infoNeutro{ /* Mensajes neutros con fotografía. */
+
+    position:relative;
+    left:2em;
+    top:5em;
+    max-width: 20em;
+    font-size: 1.5em;
+    background-color: #C6E9F7;
+    padding:1em;
+    background-position: right;
+    color:#4E83B9;
+    font-family: Myriad;
+
+}
+
+
+.infoNegativeError{ /* Mensajes negativos sin fotografía. */
+
+    position:relative;
+    left:2em;
+    top:4em;
+    max-width: 25em;
+    font-size: 1.5em;
+    background-color: #FFE4E3;
+    padding:0.7em;
+    background-position: right;
+    color:#FF6B66;
+    font-family: Myriad;
+
+}
+
+.infoPositive{ /* Mensajes positivos con fotografía. */
+
+    position:relative;
+    left:2em;
+    top:5em;
+    max-width: 30em;
+    font-size: 1.5em;
+    background-color: #E2FFD6;
+    padding:1em;
+    background-position: right;
+    color:#50AD28;
+    font-family: Myriad;
+}
+
+
+.todoPositive{
+    position: relative;
+    top:3em;
+    font-size: 1.5em;
+    background-color: #E2FFD6;
+    padding:1em;
+    background-position: right;
+    color:#50AD28;
+    font-family: Myriad;
+    left:2em;
+    max-width: 25em;
+}
+.todoNegative{
+    position: relative;
+    top:3em;
+    font-size: 1.5em;
+    background-color:  #FFE4E3;
+    padding:1em;
+    background-position: right;
+    color:#FF6B66;
+    font-family: Myriad;
+    left:2em;
+    max-width: 25em;
+}
+
+.milestonePositive{
+    position: relative;
+    top:5em;
+    font-size: 1.5em;
+    background-color: #E2FFD6;
+    padding:1em;
+    background-position: right;
+    color:#50AD28;
+    font-family: Myriad;
+    left:2em;
+    max-width: 25em;
+}
+.milestoneNegative{
+    position: relative;
+    top:5em;
+    font-size: 1.5em;
+    background-color:  #FFE4E3;
+    padding:1em;
+    background-position: right;
+    color:#FF6B66;
+    font-family: Myriad;
+    left:2em;
+    max-width: 25em;
+}
+
+
+.boardPositive{
+    position: relative;
+    top:5em;
+    font-size: 1.5em;
+    background-color: #E2FFD6;
+    padding:1em;
+    background-position: right;
+    color:#50AD28;
+    font-family: Myriad;
+    left:2em;
+    max-width: 25em;
+}
+.boardNegative{
+    position: relative;
+    top:5em;
+    font-size: 1.5em;
+    background-color:  #FFE4E3;
+    padding:1em;
+    background-position: right;
+    color:#FF6B66;
+    font-family: Myriad;
+    left:2em;
+    max-width: 25em;
+}

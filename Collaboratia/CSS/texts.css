@@ -1,0 +1,212 @@
+
+/* CSS de los textos y formularios de la aplicación.*/
+/* VALIDADO con CSS 2.1 */
+
+root {
+    display: block;
+}
+
+
+.selection{ /* Lista de categorias en listcategories.php */
+
+            position: absolute;
+            top:4em;
+            left:2em;
+            font-size: 2em;
+            color:#325A66;
+            font-family: Myriad;
+
+}
+.selection ul li { /* Cada categoría.*/
+                   list-style-type:none;
+                   font-size: 0.5em;
+}
+
+.selection p{
+    position:relative;
+}
+/* Listado de proyectos */
+
+.listProjects{
+    position:relative;
+    display:block;
+    left:2em;
+    top:9em;
+    padding: 0.5em;
+    background-color: #86ADA6;
+    border:1px solid #325A66;
+    max-width: 65em;
+    font-family: Myriad;
+}
+
+
+
+.listProjects th{
+
+    color:white;
+    font-variant: small-caps;
+    font-size: 1.15em;
+
+
+}
+
+.listProjects td{
+
+    color:#325A66;
+    text-transform: capitalize;
+
+
+}
+.listProjects td p{
+
+    color:#325A66;
+    font-weight: bold;
+    text-transform: capitalize;
+
+
+}
+
+/* Formato del formulario */
+
+.title{
+    position:absolute;
+    top: 5em;
+    left:2em;
+    color:#325A66;
+}
+
+.title h1{
+
+    font-family: Myriad;
+    color:#325A66;
+
+
+}
+
+.title td{
+    padding:0.5em;
+    color:#325A66;
+}
+
+/* Texto de bienvenida*/
+
+.welcome{
+
+    font-size: 3em;
+    position:absolute;
+    top:6em;
+    left:2em;
+    color: #325A66;
+    font-family: Myriad;
+
+
+}
+
+/* Texto en el header*/
+.header p{
+    color:white;
+    font-size: 0.75em;
+    text-align: right;
+    position: absolute;
+    bottom:0px;
+    right:10px;
+    font-family: Myriad;
+}
+
+
+/* Project Name en la parte superior de cada proyecto.*/
+
+.titleH1{
+    padding: 0.5em;
+    position:absolute;
+    top:6em;
+    left:3em;
+    background-color: #f5f5f5;
+    float:right;
+    color:#529214;
+    border:1px solid #dedede;
+    border-top:1px solid #eee;
+    border-left:1px solid #eee;
+    font-family:"Lucida Grande", Tahoma, Arial, Verdana, sans-serif;
+}
+
+.userBoard{
+    position:absolute;
+    top: 5em;
+    left:2em;
+    min-width: 30em;
+}
+
+.userBoard h3{
+    position: relative;
+    top:1em;
+    font-variant: small-caps;
+    color: #325A66;
+    font-size: 2em;
+}
+
+.userGreeting{
+ position:relative;
+    top:1em;
+    left:2em;
+    max-width: 30em;
+    font-size: 1.5em;
+    background-color: #E2FFD6;
+    padding:1em;
+    background-position: right;
+    color:#50AD28;
+    font-family: Myriad;
+}
+
+.projectGreeting{
+
+    position:relative;
+    top:1em;
+    left:2em;
+    max-width: 30em;
+    font-size: 1.5em;
+    background-color: #E2FFD6;
+    padding:1em;
+    background-position: right;
+    color:#50AD28;
+    font-family: Myriad;
+
+}
+
+
+.fechaUser{
+    position: relative;
+    top:1em;
+    font-size: 1.2em;
+    font-style: italic;
+    color: #325A66;
+}
+
+.userBoard table{
+    position: relative;
+    top:1em;
+    color: #325A66;
+    text-align: left;
+    margin-bottom: 2em;
+}
+
+.userBoard td{
+    color:red;
+    font-weight: bold;
+    text-align: left;
+    padding-left: 0.5em;
+}
+
+.userBoard th{
+    text-align: left;
+    color:#8BADA3;
+}
+
+.userBoard img{
+    margin-left: 1em;
+}
+.UImg{
+       float:right;
+    margin-left: 2em;
+
+}

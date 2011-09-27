@@ -1,0 +1,95 @@
+
+/* CSS de la utilidad Milestone del proyecto. */
+/* VALIDADO con CSS 2.1 */
+
+root { 
+    display: block;
+}
+
+
+/* LISTA DE Milestone*/
+
+.listaMilestone{    /* Lista 1*/
+
+    position:relative;
+    top:10em;
+    left:3em;
+    padding:0.5em;
+    min-width: 30em;
+    max-width: 40em;
+    background-color: #BADFD5;
+    border:1px solid #B6B7A9;
+    margin-bottom: 0.5em;
+}
+
+.listabMilestone{   /* Lista 2*/
+
+    position:relative;
+    top:10em;
+    left:3em;
+    padding:0.5em;
+    max-width: 40em;
+    min-width: 30em;
+    background-color: #F0E3C0;
+    border: 1px solid #B8AE8A;
+    margin-bottom: 0.5em;
+
+}
+
+.listaMilestone .nameMilestone{ /* Nombre */
+    color:#2A3E50;
+    text-align: left;
+    font-size: 1.2em;
+}
+
+.listabMilestone .nameMilestone{
+    color:#2A3E50;
+    text-align: left;
+        font-size: 1.2em;
+}
+
+.listaMilestone .dateMilestone{  /* Fechas */
+    color:#2A3E50;
+    font-style: italic;
+    text-align: right;
+}
+
+.listabMilestone .dateMilestone{
+    color:#2A3E50;
+    font-style: italic;
+    text-align: right;
+}
+
+.listaMilestone .descriptionMilestone{ /* Descripciones */
+        color:#2A3E50;
+    font-style: italic;
+    text-align: left;
+}
+.listabMilestone .descriptionMilestone{
+        color:#2A3E50;
+    font-style: italic;
+    text-align: left;
+}
+
+.buttonsMilestone{  /* Botones*/
+    float: left;
+}
+
+.formularioMilestone{   /* Formulario de milestones.*/
+    padding: 1em;
+    position:absolute;
+    top:8em;
+    right:10em;
+    background-color: #BADFD5;
+    float:right;
+    color:#2A3E50;
+    min-width:15em;
+    font-family: Myriad;
+    border: 1px solid #223A40;
+    font-family:"Lucida Grande", Tahoma, Arial, Verdana, sans-serif;
+
+}
+
+.formularioMilestone tr{
+    padding-bottom: 1em;
+}

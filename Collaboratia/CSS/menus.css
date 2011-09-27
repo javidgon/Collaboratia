@@ -1,0 +1,251 @@
+
+/* CSS de los diferentes menus de la aplicación.*/
+/* VALIDADO con CSS 2.1 */
+
+root { 
+    display: block;
+}
+
+
+
+/* Menú de usuario y proyecto*/
+
+ul#menu-horizontal li {
+    float: left;
+    display: inline;
+    position: relative;}
+
+ul#menu-horizontal ul {
+    display: none;
+    position: relative;
+    top: 0px;
+    left:0;
+    margin:0;
+    padding:0;
+    background:#D4D4D4;
+}
+
+ul#menu-horizontal ul li {
+    display: block;
+}
+
+ul#menu-horizontal li:hover ul{
+    display: none;
+
+}
+
+ul#menu-horizontal li:hover ul{
+    display: block;
+}
+ul#menu-horizontal li ul li:hover{
+    display: block;
+    background-color: #B8EEFF;
+}
+ul#menu-horizontal li ul li:hover a{
+    color:#325A66;
+}
+
+
+#menu-horizontal {
+    width:800px;
+    margin:0 auto;
+    position:absolute;
+    left:3px;
+    top:0px;
+}
+
+#menu-horizontal li {
+    margin:0 1px;
+    width:135px;
+    max-height:19px;
+    text-align:center;
+    background:#D4D4D4;
+    list-style:none;
+    padding:2px 0;
+}
+
+
+#menu-horizontal li:hover {
+    background:#3C9DBA;
+
+}
+#menu-horizontal li:hover a{
+    color:white;
+
+}
+
+#menu-horizontal li a {
+    font:bold 11px Arial, Helvetica, sans-serif;
+    color:#325A66;
+    text-decoration:none;
+}
+
+#menu-horizontal li ul li{
+    float:none;
+    width:135px;
+    margin:0px 0;
+}
+
+/* Menú de BACK dentro de los proyectos. */
+
+
+ul#menu-horizontal2 li {
+    float: right;
+    display: inline;
+    position: relative;
+}
+
+ul#menu-horizontal2 ul {
+    display: none;
+    position: relative;
+    top: 0px;
+    left:0;
+    margin:0;
+    padding:0;
+    background:#D4D4D4;
+}
+
+ul#menu-horizontal2 ul li {
+    display: block;
+}
+
+ul#menu-horizontal2 li:hover ul{
+    display: none;
+
+}
+
+ul#menu-horizontal2 li:hover ul{
+    display: block;
+}
+ul#menu-horizontal2 li ul li:hover{
+    display: block;
+    background-color: #B8EEFF;
+}
+ul#menu-horizontal2 li ul li:hover a{
+    color:#325A66;
+}
+
+#menu-horizontal2 {
+    width:135px;
+    margin:0 auto;
+    float:right;
+    position:absolute;
+    right:3px;
+    top:1px;
+}
+
+#menu-horizontal2 li {
+    margin:0 1px;
+    width:135px;
+    max-height:19px;
+    text-align:center;
+    background:#D4D4D4;
+    list-style:none;
+    padding:2px 0;
+    color:#946C52;
+}
+
+
+#menu-horizontal2 li:hover {
+    background:#3C9DBA;
+
+}
+#menu-horizontal2 li:hover a{
+    color:white;
+
+}
+
+#menu-horizontal2 li a {
+    font:bold 11px Arial, Helvetica, sans-serif;
+    color:#325A66;
+    text-decoration:none;
+}
+
+#menu-horizontal2 li ul li{
+    float:none;
+    width:135px;
+    margin:1px 0;
+}
+/* Menú de Back en LOGIN y REGISTER.  */
+
+
+ul#menu-horizontal3 li {
+    float: right;
+    display: inline;
+    position: relative;
+}
+
+ul#menu-horizontal3 ul {
+    display: none;
+    position: relative;
+    top: 0px;
+    left:0;
+    margin:0;
+    padding:0;
+    background:#D4D4D4;
+}
+
+ul#menu-horizontal3 ul li {
+    display: block;
+}
+
+ul#menu-horizontal3 li:hover ul{
+    display: none;
+
+}
+
+ul#menu-horizontal3 li:hover ul{
+    display: block;
+}
+ul#menu-horizontal3 li ul li:hover{
+    display: block;
+    background-color: #B8EEFF;
+}
+ul#menu-horizontal3 li ul li:hover a{
+    color:#325A66;
+}
+
+#menu-horizontal3 {
+    width:135px;
+    margin:0 auto;
+    float:left;
+    position:absolute;
+    left:3px;
+    top:1px;
+}
+
+#menu-horizontal3 li {
+    margin:0 1px;
+    width:135px;
+    max-height:19px;
+    text-align:center;
+    background:#D4D4D4;
+    list-style:none;
+    padding:2px 0;
+    color:#946C52;
+}
+
+
+#menu-horizontal3 li:hover {
+    background:#3C9DBA;
+
+}
+#menu-horizontal3 li:hover a{
+    color:white;
+
+}
+
+#menu-horizontal3 li a {
+    font:bold 11px Arial, Helvetica, sans-serif;
+    color:#325A66;
+    text-decoration:none;
+}
+
+#menu-horizontal3 li ul li{
+    float:none;
+    width:135px;
+    margin:1px 0;
+}
+
+
+/* --------------------------------------------*/

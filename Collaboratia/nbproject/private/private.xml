@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/1">
+        <file>file:/Users/javidgon/Dropbox/Sistemas%20Hipermedia%20Project/v.1.3/Collaboratia/Functions/db/project_db.php</file>
+        <file>file:/Users/javidgon/Dropbox/Sistemas%20Hipermedia%20Project/v.1.3/Collaboratia/Project/index.php</file>
+        <file>file:/Users/javidgon/Dropbox/Sistemas%20Hipermedia%20Project/v.1.3/Collaboratia/index.php</file>
+        <file>file:/Users/javidgon/Dropbox/Sistemas%20Hipermedia%20Project/v.1.3/Collaboratia/Functions/db/user_db.php</file>
+        <file>file:/Users/javidgon/Dropbox/Sistemas%20Hipermedia%20Project/v.1.3/Collaboratia/User/index.php</file>
+        <file>file:/Users/javidgon/Dropbox/Sistemas%20Hipermedia%20Project/v.1.3/Collaboratia/User/Profile/index.php</file>
+        <file>file:/Users/javidgon/Dropbox/Sistemas%20Hipermedia%20Project/v.1.3/Collaboratia/User/Profile/processing.php</file>
+        <file>file:/Users/javidgon/Dropbox/Sistemas%20Hipermedia%20Project/v.1.3/Collaboratia/Login/processing.php</file>
+        <file>file:/Users/javidgon/Dropbox/Sistemas%20Hipermedia%20Project/v.1.3/Collaboratia/Login/index.php</file>
+        <file>file:/Users/javidgon/Dropbox/Sistemas%20Hipermedia%20Project/v.1.3/Collaboratia/insertCode.php</file>
+        <file>file:/Users/javidgon/Dropbox/Sistemas%20Hipermedia%20Project/v.1.3/Collaboratia/User/myProjects.php</file>
+        <file>file:/Users/javidgon/Dropbox/Sistemas%20Hipermedia%20Project/v.1.3/Collaboratia/User/create.php</file>
+        <file>file:/Users/javidgon/Dropbox/Sistemas%20Hipermedia%20Project/v.1.3/Collaboratia/User/collaborative.php</file>
+        <file>file:/Users/javidgon/Dropbox/Sistemas%20Hipermedia%20Project/v.1.3/Collaboratia/Project/options.php</file>
+        <file>file:/Users/javidgon/Dropbox/Sistemas%20Hipermedia%20Project/v.1.3/Collaboratia/User/processing.php</file>
+        <file>file:/Users/javidgon/Dropbox/Sistemas%20Hipermedia%20Project/v.1.3/Collaboratia/Project/board.php</file>
+        <file>file:/Users/javidgon/Dropbox/Sistemas%20Hipermedia%20Project/v.1.3/Collaboratia/Project/to-do/index.php</file>
+        <file>file:/Users/javidgon/Dropbox/Sistemas%20Hipermedia%20Project/v.1.3/Collaboratia/Project/to-do/processing.php</file>
+        <file>file:/Users/javidgon/Dropbox/Sistemas%20Hipermedia%20Project/v.1.3/Collaboratia/Project/to-do/task.php</file>
+        <file>file:/Users/javidgon/Dropbox/Sistemas%20Hipermedia%20Project/v.1.3/Collaboratia/Project/Milestone/create.php</file>
+        <file>file:/Users/javidgon/Dropbox/Sistemas%20Hipermedia%20Project/v.1.3/Collaboratia/Project/Milestone/index.php</file>
+        <file>file:/Users/javidgon/Dropbox/Sistemas%20Hipermedia%20Project/v.1.3/Collaboratia/Project/Milestone/processing.php</file>
+        <file>file:/Users/javidgon/Dropbox/Sistemas%20Hipermedia%20Project/v.1.3/Collaboratia/Login/error.php</file>
+        <file>file:/Users/javidgon/Dropbox/Sistemas%20Hipermedia%20Project/v.1.3/Collaboratia/Register/index.php</file>
+        <file>file:/Users/javidgon/Dropbox/Sistemas%20Hipermedia%20Project/v.1.3/Collaboratia/Register/processing.php</file>
+        <file>file:/Users/javidgon/Dropbox/Sistemas%20Hipermedia%20Project/v.1.3/Collaboratia/CSS/index.css</file>
+        <file>file:/Users/javidgon/Dropbox/Sistemas%20Hipermedia%20Project/v.1.3/Collaboratia/CSS/texts.css</file>
+        <file>file:/Users/javidgon/Dropbox/Sistemas%20Hipermedia%20Project/v.1.3/Collaboratia/CSS/tweet.css</file>
+        <file>file:/Users/javidgon/Dropbox/Sistemas%20Hipermedia%20Project/v.1.3/Collaboratia/CSS/alerts.css</file>
+        <file>file:/Users/javidgon/Dropbox/Sistemas%20Hipermedia%20Project/v.1.3/Collaboratia/CSS/buttons.css</file>
+        <file>file:/Users/javidgon/Dropbox/Sistemas%20Hipermedia%20Project/v.1.3/Collaboratia/CSS/todo.css</file>
+        <file>file:/Users/javidgon/Dropbox/Sistemas%20Hipermedia%20Project/v.1.3/Collaboratia/listProjects.php</file>
+        <file>file:/Users/javidgon/Dropbox/Sistemas%20Hipermedia%20Project/v.1.3/Collaboratia/subscribe.php</file>
+        <file>file:/Users/javidgon/Dropbox/Sistemas%20Hipermedia%20Project/v.1.3/Collaboratia/end.php</file>
+        <file>file:/Users/javidgon/Dropbox/Sistemas%20Hipermedia%20Project/v.1.3/Collaboratia/help.php</file>
+        <file>file:/Users/javidgon/Dropbox/Sistemas%20Hipermedia%20Project/v.1.3/Collaboratia/Functions/db/milestone_db.php</file>
+        <file>file:/Users/javidgon/Dropbox/Sistemas%20Hipermedia%20Project/v.1.3/Collaboratia/Functions/db/session_db.php</file>
+        <file>file:/Users/javidgon/Dropbox/Sistemas%20Hipermedia%20Project/v.1.3/Collaboratia/Functions/db/to-do_db.php</file>
+        <file>file:/Users/javidgon/Dropbox/Sistemas%20Hipermedia%20Project/v.1.3/Collaboratia/Functions/db/tweet_db.php</file>
+        <file>file:/Users/javidgon/Dropbox/Sistemas%20Hipermedia%20Project/v.1.3/Collaboratia/Functions/authentification/user_auth.php</file>
+        <file>file:/Users/javidgon/Dropbox/Sistemas%20Hipermedia%20Project/v.1.3/Collaboratia/CSS/menus.css</file>
+    </open-files>
+</project-private>

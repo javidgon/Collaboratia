@@ -1,0 +1,135 @@
+
+/* CSS general de la aplicación */
+/* VALIDADO con CSS 2.1 */
+root {
+    display: block;
+}
+
+body{ /* Color de fondo. */
+    min-width: 90em;
+      background-color: #FFFFFF;
+      margin:0px;
+      padding:0px;
+
+
+
+}
+
+
+.header{ /* Cabecera de inicio. */
+
+         background-color: #325A66;
+         position:absolute;
+         top:0;
+         min-height: 5em;
+         width: 100%;
+
+
+}
+/* Listado de proyectos */
+
+.listProjects{
+    position:relative;
+    display:block;
+    left:2em;
+    top:9em;
+    padding: 0.5em;
+    background-color: #86ADA6;
+    border:1px solid #325A66;
+    max-width: 65em;
+    font-family: Myriad;
+}
+
+
+
+.listProjects th{
+
+    color:white;
+    font-variant: small-caps;
+    font-size: 1.15em;
+
+
+}
+
+.listProjects td{
+
+    color:#325A66;
+    text-transform: capitalize;
+
+
+}
+.listProjects td p{
+
+    color:#325A66;
+    font-weight: bold;
+    text-transform: capitalize;
+
+
+}
+
+
+
+.exit{ /* Tiene el estilo del botón de salida.*/
+
+       position:absolute;
+       right:3px;
+       top:85px;
+
+
+}
+
+/* --------------------------------------------- */
+
+.welcomePicture{
+
+    font-size: 3em;
+    position:absolute;
+    top:2em;
+    left:2em;
+
+    clear: none;
+
+}
+.insertCode{
+    position: absolute;
+    left:2em;
+    bottom: 2em;
+}
+.validators{
+
+    position:absolute;
+    bottom: 1em;
+    right:2em;
+
+}
+
+
+
+/* DASHBOARD*/
+
+.connection{
+    padding: 0.5em;
+    position:fixed;
+    top:19em;
+    right:10em;
+    background-color: #f5f5f5;
+    float:right;
+    color:#529214;
+    min-width:15em;
+    font-family: Myriad;
+    border: 1px solid #223A40;
+    font-family:"Lucida Grande", Tahoma, Arial, Verdana, sans-serif;
+}
+
+.connection th{
+
+    font-size: 1.2em;
+    padding-bottom: 0.5em;
+        color:#529214;
+}
+
+.connection td{
+    padding: 0.5em;
+        color:#529214;
+}
+

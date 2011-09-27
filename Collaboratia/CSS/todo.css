@@ -1,0 +1,113 @@
+
+/* CSS de herramienta TODO y TASKS dentro de cada proyecto. */
+/* VALIDADO con CSS 2.1 */
+
+root { 
+    display: block;
+}
+
+.formularioToDo{ /* Formulario de TODOs*/
+    padding: 0.5em;
+    position:absolute;
+    top:8em;
+    right:10em;
+    background-color: #F0E3C0;
+    float:right;
+    color:#585030;
+    min-width:15em;
+    font-family: Myriad;
+    border: 1px solid #223A40;
+    font-family:"Lucida Grande", Tahoma, Arial, Verdana, sans-serif;
+
+}
+
+.formularioToDo td{
+    padding-bottom: 0.5em;
+}
+
+/* LISTA DE TO-DO*/
+
+.listaToDo{ /* Lista 1*/
+
+    position:relative;
+    top:8em;
+    left:3em;
+    padding:0.5em;
+    padding-bottom: 1em;
+    min-width: 30em;
+    max-width: 40em;
+    background-color: #f5f5f5;
+    border:1px solid #B6B7A9;
+    margin-bottom: 0.5em;
+
+}
+
+.listabToDo{    /* Lista 2*/
+
+    position:relative;
+    top:8em;
+    left:3em;
+    padding:0.5em;
+    padding-bottom: 1em;
+    max-width: 40em;
+    min-width: 30em;
+    background-color: #F0E3C0;
+    border: 1px solid #B8AE8A;
+    margin-bottom: 0.5em;
+
+}
+
+.date{  /* Fecha */
+
+    font-size: 0.8em;
+    font-style: italic;
+    color:#585030;
+    text-align: right;
+
+}
+.name{  /* Nombre */
+    font-size: 1em;
+    color:#585030;
+    text-align: left;
+    font-size: 1.1em;
+    font-style: italic;
+
+}
+
+.buttonToDo{    /* Botones*/
+
+    text-align: right;
+
+
+}
+
+/* LISTA DE TASKs*/
+
+
+.listaTask{ /* Lista 1*/
+
+    position:relative;
+    top:8em;
+    left:3em;
+    padding:0.5em;
+    min-width: 30em;
+    max-width: 40em;
+    background-color: #f5f5f5;
+    border:1px solid #B6B7A9;
+    margin-bottom: 0.5em;
+
+}
+
+.listabTask{    /* Lista 2*/
+
+    position:relative;
+    top:8em;
+    left:3em;
+    padding:0.5em;
+    max-width: 40em;
+    min-width: 30em;
+    background-color: #F0E3C0;
+    border: 1px solid #B8AE8A;
+    margin-bottom: 0.5em;
+
+}
